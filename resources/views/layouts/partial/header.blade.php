@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="navbar-collapse collapse" id="navbarSupportedContent" data-navbarbg="skin6">
-            <ul class="navbar-nav float-start me-auto">
+            <ul class="navbar-nav float-start me-auto" style="opacity: 0; pointer-events: none;">
                 <li class="nav-item search-box">
                     <a class="nav-link waves-effect waves-dark" href="javascript:void(0)">
                         <div class="d-flex align-items-center">
@@ -38,16 +38,15 @@
             </ul>
             <ul class="navbar-nav float-end">
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle text-muted waves-effect waves-dark pro-pic" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle text-muted waves-effect waves-dark pro-pic" href="#"
+                        id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         <img src="../../assets/images/users/1.jpg" alt="user" class="rounded-circle" width="31">
                     </a>
                     <ul class="dropdown-menu dropdown-menu-end user-dd animated" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="javascript:void(0)"><i class="ti-user me-1 ms-1"></i>
                             My Profile</a>
-                        <a class="dropdown-item" href="javascript:void(0)"><i class="ti-wallet me-1 ms-1"></i>
-                            My Balance</a>
-                        <a class="dropdown-item" href="javascript:void(0)"><i class="ti-email me-1 ms-1"></i>
-                            Inbox</a>
+                        <a class="dropdown-item" href="javascript:void(0)"><i class="mdi mdi-logout me-1 ms-1"></i>
+                            Logout</a>
                     </ul>
                 </li>
             </ul>

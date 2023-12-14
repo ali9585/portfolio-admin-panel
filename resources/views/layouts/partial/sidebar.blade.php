@@ -12,43 +12,36 @@
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="pages-profile.html"
                         aria-expanded="false">
-                        <i class="mdi mdi-account-network"></i>
-                        <span class="hide-menu">Profile</span>
+                        <i class="mdi mdi-book"></i>
+                        <span class="hide-menu">Education & Experience</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="form-basic.html"
                         aria-expanded="false">
                         <i class="mdi mdi-arrange-bring-forward"></i>
-                        <span class="hide-menu">Form Basic</span>
+                        <span class="hide-menu">Projects</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
                     <a class="sidebar-link waves-effect waves-dark sidebar-link" href="table-basic.html"
                         aria-expanded="false">
-                        <i class="mdi mdi-border-none"></i>
-                        <span class="hide-menu">Table</span>
+                        <i class="mdi mdi-settings"></i>
+                        <span class="hide-menu">Site Settings</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
-                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="icon-material.html"
+                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="table-basic.html"
                         aria-expanded="false">
-                        <i class="mdi mdi-face"></i>
-                        <span class="hide-menu">Icon</span>
+                        <i class="mdi mdi-account-network"></i>
+                        <span class="hide-menu">Profile</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
-                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="starter-kit.html"
+                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="table-basic.html"
                         aria-expanded="false">
-                        <i class="mdi mdi-file"></i>
-                        <span class="hide-menu">Blank</span>
-                    </a>
-                </li>
-                <li class="sidebar-item">
-                    <a class="sidebar-link waves-effect waves-dark sidebar-link" href="error-404.html"
-                        aria-expanded="false">
-                        <i class="mdi mdi-alert-outline"></i>
-                        <span class="hide-menu">404</span>
+                        <i class="mdi mdi-logout"></i>
+                        <span class="hide-menu">Logout</span>
                     </a>
                 </li>
             </ul>
